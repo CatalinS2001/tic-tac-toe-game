@@ -1,0 +1,11 @@
+Tic tac toe Rules:
+
+1. Player must choose between naught or cross
+2. If player has chosen cross then they must make the first move
+3. If player has chosen naught then they must wait for the first player (naughts) to make their move
+4. Moves are done on a 3 x 3 grid and the player must choose a space inside the grid
+5. Once a player has made their move inside the grid then their symbol (either naught or cross) stays on the spot untill the game is finished
+6. After the player is done and the symbol is placed inside the grid then the it is the other player's turn to move
+7. This must be repeated until either player wins or there is a draw
+8. A win is achieved when 3 of the same symbols are placed in a row, this can be either diagonally or horizontally or vertical
+9. A draw is achieved when all spaces in the grid have been filled but neither player has 3 of their symbols in a row
